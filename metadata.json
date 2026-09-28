@@ -1,0 +1,6 @@
+{
+  "name": "TenancyHQ",
+  "description": "Smart property & tenancy management dashboard for rent collection, unit occupancy, and lease operations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
